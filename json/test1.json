@@ -1,0 +1,1010 @@
+[
+  {
+    "column": 0,
+    "row": 0,
+    "type": "String",
+    "value": "header_1"
+  },
+  {
+    "column": 1,
+    "row": 0,
+    "type": "String",
+    "value": "header_2"
+  },
+  {
+    "column": 2,
+    "row": 0,
+    "type": "String",
+    "value": "header_3"
+  },
+  {
+    "column": 3,
+    "row": 0,
+    "type": "String",
+    "value": "header_4"
+  },
+  {
+    "column": 4,
+    "row": 0,
+    "type": "String",
+    "value": "header_5"
+  },
+  {
+    "column": 5,
+    "row": 0,
+    "type": "String",
+    "value": "header_6"
+  },
+  {
+    "column": 6,
+    "row": 0,
+    "type": "String",
+    "value": "header_7"
+  },
+  {
+    "column": 7,
+    "row": 0,
+    "type": "String",
+    "value": "header_8"
+  },
+  {
+    "column": 0,
+    "row": 1,
+    "type": "String",
+    "value": "value_A1"
+  },
+  {
+    "column": 1,
+    "row": 1,
+    "type": "Double",
+    "value": 1.0
+  },
+  {
+    "column": 2,
+    "row": 1,
+    "type": "String",
+    "value": "value_C1"
+  },
+  {
+    "column": 3,
+    "row": 1,
+    "type": "DateTime",
+    "value": "2020-04-19T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 1,
+    "type": "String",
+    "value": "value_E1"
+  },
+  {
+    "column": 5,
+    "row": 1,
+    "type": "String",
+    "value": "value_F1"
+  },
+  {
+    "column": 6,
+    "row": 1,
+    "type": "Double",
+    "value": 0.01
+  },
+  {
+    "column": 7,
+    "row": 1,
+    "type": "String",
+    "value": "value_H1"
+  },
+  {
+    "column": 0,
+    "row": 2,
+    "type": "String",
+    "value": "value_A2"
+  },
+  {
+    "column": 1,
+    "row": 2,
+    "type": "Double",
+    "value": 2.0
+  },
+  {
+    "column": 2,
+    "row": 2,
+    "type": "String",
+    "value": "value_C2"
+  },
+  {
+    "column": 3,
+    "row": 2,
+    "type": "DateTime",
+    "value": "2020-04-20T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 2,
+    "type": "String",
+    "value": "value_E2"
+  },
+  {
+    "column": 5,
+    "row": 2,
+    "type": "String",
+    "value": "value_F2"
+  },
+  {
+    "column": 6,
+    "row": 2,
+    "type": "Double",
+    "value": 0.02
+  },
+  {
+    "column": 7,
+    "row": 2,
+    "type": "String",
+    "value": "value_H2"
+  },
+  {
+    "column": 0,
+    "row": 3,
+    "type": "String",
+    "value": "value_A3"
+  },
+  {
+    "column": 1,
+    "row": 3,
+    "type": "Double",
+    "value": 3.0
+  },
+  {
+    "column": 2,
+    "row": 3,
+    "type": "String",
+    "value": "value_C3"
+  },
+  {
+    "column": 3,
+    "row": 3,
+    "type": "DateTime",
+    "value": "2020-04-21T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 3,
+    "type": "String",
+    "value": "value_E3"
+  },
+  {
+    "column": 5,
+    "row": 3,
+    "type": "String",
+    "value": "value_F3"
+  },
+  {
+    "column": 6,
+    "row": 3,
+    "type": "Double",
+    "value": 0.03
+  },
+  {
+    "column": 7,
+    "row": 3,
+    "type": "String",
+    "value": "value_H3"
+  },
+  {
+    "column": 0,
+    "row": 4,
+    "type": "String",
+    "value": "value_A4"
+  },
+  {
+    "column": 1,
+    "row": 4,
+    "type": "Double",
+    "value": 4.0
+  },
+  {
+    "column": 2,
+    "row": 4,
+    "type": "String",
+    "value": "value_C4"
+  },
+  {
+    "column": 3,
+    "row": 4,
+    "type": "DateTime",
+    "value": "2020-04-22T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 4,
+    "type": "String",
+    "value": "value_E4"
+  },
+  {
+    "column": 5,
+    "row": 4,
+    "type": "String",
+    "value": "value_F4"
+  },
+  {
+    "column": 6,
+    "row": 4,
+    "type": "Double",
+    "value": 0.04
+  },
+  {
+    "column": 7,
+    "row": 4,
+    "type": "String",
+    "value": "value_H4"
+  },
+  {
+    "column": 0,
+    "row": 5,
+    "type": "String",
+    "value": "value_A5"
+  },
+  {
+    "column": 1,
+    "row": 5,
+    "type": "Double",
+    "value": 5.0
+  },
+  {
+    "column": 2,
+    "row": 5,
+    "type": "String",
+    "value": "value_C5"
+  },
+  {
+    "column": 3,
+    "row": 5,
+    "type": "DateTime",
+    "value": "2020-04-23T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 5,
+    "type": "String",
+    "value": "value_E5"
+  },
+  {
+    "column": 5,
+    "row": 5,
+    "type": "String",
+    "value": "value_F5"
+  },
+  {
+    "column": 6,
+    "row": 5,
+    "type": "Double",
+    "value": 0.05
+  },
+  {
+    "column": 7,
+    "row": 5,
+    "type": "String",
+    "value": "value_H5"
+  },
+  {
+    "column": 0,
+    "row": 6,
+    "type": "String",
+    "value": "value_A6"
+  },
+  {
+    "column": 1,
+    "row": 6,
+    "type": "Double",
+    "value": 6.0
+  },
+  {
+    "column": 2,
+    "row": 6,
+    "type": "String",
+    "value": "value_C6"
+  },
+  {
+    "column": 3,
+    "row": 6,
+    "type": "DateTime",
+    "value": "2020-04-24T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 6,
+    "type": "String",
+    "value": "value_E6"
+  },
+  {
+    "column": 5,
+    "row": 6,
+    "type": "String",
+    "value": "value_F6"
+  },
+  {
+    "column": 6,
+    "row": 6,
+    "type": "Double",
+    "value": 0.06
+  },
+  {
+    "column": 7,
+    "row": 6,
+    "type": "String",
+    "value": "value_H6"
+  },
+  {
+    "column": 0,
+    "row": 7,
+    "type": "String",
+    "value": "value_A7"
+  },
+  {
+    "column": 1,
+    "row": 7,
+    "type": "Double",
+    "value": 7.0
+  },
+  {
+    "column": 2,
+    "row": 7,
+    "type": "String",
+    "value": "value_C7"
+  },
+  {
+    "column": 3,
+    "row": 7,
+    "type": "DateTime",
+    "value": "2020-04-25T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 7,
+    "type": "String",
+    "value": "value_E7"
+  },
+  {
+    "column": 5,
+    "row": 7,
+    "type": "String",
+    "value": "value_F7"
+  },
+  {
+    "column": 6,
+    "row": 7,
+    "type": "Double",
+    "value": 0.07
+  },
+  {
+    "column": 7,
+    "row": 7,
+    "type": "String",
+    "value": "value_H7"
+  },
+  {
+    "column": 0,
+    "row": 8,
+    "type": "String",
+    "value": "value_A8"
+  },
+  {
+    "column": 1,
+    "row": 8,
+    "type": "Double",
+    "value": 8.0
+  },
+  {
+    "column": 2,
+    "row": 8,
+    "type": "String",
+    "value": "value_C8"
+  },
+  {
+    "column": 3,
+    "row": 8,
+    "type": "DateTime",
+    "value": "2020-04-26T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 8,
+    "type": "String",
+    "value": "value_E8"
+  },
+  {
+    "column": 5,
+    "row": 8,
+    "type": "String",
+    "value": "value_F8"
+  },
+  {
+    "column": 6,
+    "row": 8,
+    "type": "Double",
+    "value": 0.08
+  },
+  {
+    "column": 7,
+    "row": 8,
+    "type": "String",
+    "value": "value_H8"
+  },
+  {
+    "column": 0,
+    "row": 9,
+    "type": "String",
+    "value": "value_A9"
+  },
+  {
+    "column": 1,
+    "row": 9,
+    "type": "Double",
+    "value": 9.0
+  },
+  {
+    "column": 2,
+    "row": 9,
+    "type": "String",
+    "value": "value_C9"
+  },
+  {
+    "column": 3,
+    "row": 9,
+    "type": "DateTime",
+    "value": "2020-04-27T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 9,
+    "type": "String",
+    "value": "value_E9"
+  },
+  {
+    "column": 5,
+    "row": 9,
+    "type": "String",
+    "value": "value_F9"
+  },
+  {
+    "column": 6,
+    "row": 9,
+    "type": "Double",
+    "value": 0.09
+  },
+  {
+    "column": 7,
+    "row": 9,
+    "type": "String",
+    "value": "value_H9"
+  },
+  {
+    "column": 0,
+    "row": 10,
+    "type": "String",
+    "value": "value_A10"
+  },
+  {
+    "column": 1,
+    "row": 10,
+    "type": "Double",
+    "value": 10.0
+  },
+  {
+    "column": 2,
+    "row": 10,
+    "type": "String",
+    "value": "value_C10"
+  },
+  {
+    "column": 3,
+    "row": 10,
+    "type": "DateTime",
+    "value": "2020-04-28T00:00:00"
+  },
+  {
+    "column": 4,
+    "row": 10,
+    "type": "String",
+    "value": "value_E10"
+  },
+  {
+    "column": 5,
+    "row": 10,
+    "type": "String",
+    "value": "value_F10"
+  },
+  {
+    "column": 6,
+    "row": 10,
+    "type": "Double",
+    "value": 0.1
+  },
+  {
+    "column": 7,
+    "row": 10,
+    "type": "String",
+    "value": "value_H10"
+  },
+  {
+    "column": 0,
+    "row": 11,
+    "type": "String",
+    "value": "value_A11"
+  },
+  {
+    "column": 1,
+    "row": 11,
+    "type": "Double",
+    "value": 11.0
+  },
+  {
+    "column": 2,
+    "row": 11,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 11,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 11,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 11,
+    "type": "String",
+    "value": "value_F11"
+  },
+  {
+    "column": 6,
+    "row": 11,
+    "type": "Double",
+    "value": 0.11
+  },
+  {
+    "column": 7,
+    "row": 11,
+    "type": "String",
+    "value": "value_H11"
+  },
+  {
+    "column": 0,
+    "row": 12,
+    "type": "String",
+    "value": "value_A12"
+  },
+  {
+    "column": 1,
+    "row": 12,
+    "type": "Double",
+    "value": 12.0
+  },
+  {
+    "column": 2,
+    "row": 12,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 12,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 12,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 12,
+    "type": "String",
+    "value": "value_F12"
+  },
+  {
+    "column": 6,
+    "row": 12,
+    "type": "Double",
+    "value": 0.12
+  },
+  {
+    "column": 7,
+    "row": 12,
+    "type": "String",
+    "value": "value_H12"
+  },
+  {
+    "column": 0,
+    "row": 13,
+    "type": "String",
+    "value": "value_A13"
+  },
+  {
+    "column": 1,
+    "row": 13,
+    "type": "Double",
+    "value": 13.0
+  },
+  {
+    "column": 2,
+    "row": 13,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 13,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 13,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 13,
+    "type": "String",
+    "value": "value_F13"
+  },
+  {
+    "column": 6,
+    "row": 13,
+    "type": "Double",
+    "value": 0.13
+  },
+  {
+    "column": 7,
+    "row": 13,
+    "type": "String",
+    "value": "value_H13"
+  },
+  {
+    "column": 0,
+    "row": 14,
+    "type": "String",
+    "value": "value_A14"
+  },
+  {
+    "column": 1,
+    "row": 14,
+    "type": "Double",
+    "value": 14.0
+  },
+  {
+    "column": 2,
+    "row": 14,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 14,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 14,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 14,
+    "type": "String",
+    "value": "value_F14"
+  },
+  {
+    "column": 6,
+    "row": 14,
+    "type": "Double",
+    "value": 0.14
+  },
+  {
+    "column": 7,
+    "row": 14,
+    "type": "String",
+    "value": "value_H14"
+  },
+  {
+    "column": 0,
+    "row": 15,
+    "type": "String",
+    "value": "value_A15"
+  },
+  {
+    "column": 1,
+    "row": 15,
+    "type": "Double",
+    "value": 15.0
+  },
+  {
+    "column": 2,
+    "row": 15,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 15,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 15,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 15,
+    "type": "String",
+    "value": "value_F15"
+  },
+  {
+    "column": 6,
+    "row": 15,
+    "type": "Double",
+    "value": 0.15
+  },
+  {
+    "column": 7,
+    "row": 15,
+    "type": "String",
+    "value": "value_H15"
+  },
+  {
+    "column": 0,
+    "row": 16,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 1,
+    "row": 16,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 2,
+    "row": 16,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 16,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 16,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 16,
+    "type": "String",
+    "value": "value_F16"
+  },
+  {
+    "column": 6,
+    "row": 16,
+    "type": "Double",
+    "value": 0.16
+  },
+  {
+    "column": 7,
+    "row": 16,
+    "type": "String",
+    "value": "value_H16"
+  },
+  {
+    "column": 0,
+    "row": 17,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 1,
+    "row": 17,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 2,
+    "row": 17,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 17,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 17,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 17,
+    "type": "String",
+    "value": "value_F17"
+  },
+  {
+    "column": 6,
+    "row": 17,
+    "type": "Double",
+    "value": 0.17
+  },
+  {
+    "column": 7,
+    "row": 17,
+    "type": "String",
+    "value": "value_H17"
+  },
+  {
+    "column": 0,
+    "row": 18,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 1,
+    "row": 18,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 2,
+    "row": 18,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 18,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 18,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 18,
+    "type": "String",
+    "value": "value_F18"
+  },
+  {
+    "column": 6,
+    "row": 18,
+    "type": "Double",
+    "value": 0.18
+  },
+  {
+    "column": 7,
+    "row": 18,
+    "type": "String",
+    "value": "value_H18"
+  },
+  {
+    "column": 0,
+    "row": 19,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 1,
+    "row": 19,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 2,
+    "row": 19,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 19,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 19,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 19,
+    "type": "String",
+    "value": "value_F19"
+  },
+  {
+    "column": 6,
+    "row": 19,
+    "type": "Double",
+    "value": 0.19
+  },
+  {
+    "column": 7,
+    "row": 19,
+    "type": "String",
+    "value": "value_H19"
+  },
+  {
+    "column": 0,
+    "row": 20,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 1,
+    "row": 20,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 2,
+    "row": 20,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 3,
+    "row": 20,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 4,
+    "row": 20,
+    "type": null,
+    "value": null
+  },
+  {
+    "column": 5,
+    "row": 20,
+    "type": "String",
+    "value": "value_F20"
+  },
+  {
+    "column": 6,
+    "row": 20,
+    "type": "Double",
+    "value": 0.2
+  },
+  {
+    "column": 7,
+    "row": 20,
+    "type": "String",
+    "value": "value_H20"
+  }
+]
